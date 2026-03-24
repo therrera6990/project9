@@ -17,6 +17,8 @@ Thomas Herrera & Aslan Aliyev
 
 ## Summary
 
+In this lab we utalized D-Latches and behavioral verilog code to implement a one bit and 4 bit memory system which we then testing with a basys board helping better our understanding of what this stuff actually looks like in practice.
+
 ## Lab Questions
 
 ###  Why can we not just use structural Verilog to implement latches?
